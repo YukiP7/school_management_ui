@@ -3,8 +3,8 @@ import image from '../assets/images/register.png'
 
 function Registeration() {
   return (
-    <div className='flex flex-col justify-center items-center px-10'>
-         <h1 className=' font-semibold m-10 mb-4 text-2xl sm:text-3xl'>Time to sign up</h1>
+    <div className='flex flex-col justify-center items-center px-10 bg-[rgba(136,169,240,1)] h-screen'>
+         <h1 className=' font-semibold  mb-4 text-2xl sm:text-3xl'>Time to sign up</h1>
          <p className='text-xl mb-4 text-center'>Send over your deets in the form below 🤘</p>
       <div className="bg-white rounded-lg shadow-lg w-full md:w-4/5 lg:w-3/5 flex flex-col md:flex-row sm:w-4/5">
 
